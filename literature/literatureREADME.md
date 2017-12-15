@@ -6,5 +6,5 @@
 <p><a href="http://papers.nips.cc/paper/3449-offline-handwriting-recognition-with-multidimensional-recurrent-neural-networks.pdf"> Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks, Graves and Schmidhuber 2009</a></p>
 <p><a href="https://arxiv.org/pdf/1308.0850.pdf"> Generating Sequences with Recurrent Neural Networks, Graves, 2014</a></p>
 <p><a href="https://github.com/szcom/rnnlib"> Software for the preceeding three papers</a></p>
-<p><a href="http://www.dsic.upv.es/docs/posgrado/20/RES/materialesDocentes/alejandroViewgraphs/UsingStatisticalLMtoImproveRec.pdf"> Using a statistical language model to improve the performance of an HMM-based cursive handwriting recognition system, Marti and Bunke</a></p>
+<p>Preprocessing:<a href="http://www.dsic.upv.es/docs/posgrado/20/RES/materialesDocentes/alejandroViewgraphs/UsingStatisticalLMtoImproveRec.pdf"> Using a statistical language model to improve the performance of an HMM-based cursive handwriting recognition system, Marti and Bunke</a></p>
 
