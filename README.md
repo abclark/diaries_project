@@ -7,7 +7,7 @@ D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;5&nbs
 
 Informative paper on how <code>tesseract</code> works:
 
-<p><a href="https://pdfs.semanticscholar.org/eacd/1319c5a0d5642ff9b2b187579edb844dee3f.pdf"> An Overview of the Tesseract OCR Engine, Ray Smith, undated</a></p>
+<p><a href="https://pdfs.semanticscholar.org/eacd/1319c5a0d5642ff9b2b187579edb844dee3f.pdf"> An Overview of the Tesseract OCR Engine, Ray Smith, undated</a>.</p>
 
 Google's attempt:
 
