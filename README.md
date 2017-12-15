@@ -16,10 +16,10 @@ D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;5&nbs
 <p><code>test_page1.png</code></p>
         
         <div class="container">
-<img src="test_page1.png" />
+<img src="pics/test_page1.png" />
 </div> 
         
-<pre><code>>>> print(pytesseract.image_to_string(Image.open('pics/test_page1.png')))</code></pre>
+<pre><code>>>> print(pytesseract.image_to_string(Image.open('test_page1.png')))</code></pre>
 
 <pre><code>4.2 Transposition (Fixed Period d)
 
@@ -50,10 +50,10 @@ the alphabet numbered from A = 0 to Z = 25. Thus
         <p><code>fulltestpage.png</code></p>
         
         <div class="container">
-<img src="fulltestpage.png" />
+<img src="pics/fulltestpage.png" />
 </div>         
         
-<pre><code>>>> print(pytesseract.image_to_string(Image.open('pics/fulltestpage.png')))</code></pre>
+<pre><code>>>> print(pytesseract.image_to_string(Image.open('fulltestpage.png')))</code></pre>
         
         
 <pre><code>, NcoM/aé M/7% Mag
