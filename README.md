@@ -8,7 +8,7 @@ D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;5&nbs
 Google's attempt:
 
 <div class="container">
-<p><code>google'sattempt.png</code></p>
+<p><code>pics/google'sattempt.png</code></p>
 </div>
 
 <p>
