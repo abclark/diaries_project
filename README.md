@@ -15,9 +15,8 @@ import pytesseract</code></pre>
 
 <p><code>test_page1.png</code></p>
         
-        <div class="container">
+  
 <img src="pics/test_page1.png" />
-</div> 
         
 <pre><code>>>> print(pytesseract.image_to_string(Image.open('test_page1.png')))</code></pre>
 
