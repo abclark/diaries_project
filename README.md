@@ -8,7 +8,7 @@ D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;5&nbs
 Google's attempt:
 
 <div class="container">
-<p><code>pics/google'sattempt.png</code></p>
+<img src="pics/google'sattempt.png" />        
 </div>
 
 <p>
@@ -24,12 +24,13 @@ D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;4&nbs
 
 import pytesseract</code></pre> 
 
+
+<p><code>test_page1.png</code></p>     
+
 <div class="container">
-<p><code>test_page1.png</code></p>
-</div>        
-  
 <img src="pics/test_page1.png" />        
-        
+</div>   
+ 
 <pre><code>>>> print(pytesseract.image_to_string(Image.open('test_page1.png')))</code></pre>
 
 <pre><code>4.2 Transposition (Fixed Period d)
