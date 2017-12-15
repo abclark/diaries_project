@@ -5,13 +5,13 @@
 D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;5&nbsp;t&nbsp;h&nbsp;&nbsp;&nbsp;2&nbsp;0&nbsp;1&nbsp;7</BIG>
 </p>        
 
-<pre><code>>>> try:
-...     import Image
-... except ImportError:
-...     from PIL import Image
-... 
->>> import pytesseract
->>> </code></pre> 
+<pre><code>
+try:
+  import Image
+  except ImportError:
+  from PIL import Image
+
+import pytesseract</code></pre> 
 
 <p><code>test_page1.png</code></p>
         
@@ -44,8 +44,7 @@ d17d27 ' ' '7dn-
 In the Vigenere cipher the key consists of a series of d1etters.These are writ—
 
 ten repeatedly below the message and the two added modulo 26 (considering
-the alphabet numbered from A = 0 to Z = 25. Thus
->>> </code></pre> 
+the alphabet numbered from A = 0 to Z = 25. Thus</code></pre> 
      
         <p><code>fulltestpage.png</code></p>
         
