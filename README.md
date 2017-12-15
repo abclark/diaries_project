@@ -5,6 +5,12 @@
 D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;5&nbsp;t&nbsp;h&nbsp;&nbsp;&nbsp;2&nbsp;0&nbsp;1&nbsp;7</BIG>
 </p>
 
+LeCun's paper on <code>tesseract</code> works:
+
+<p><a href="http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network.pdf"> Handwritten Digit Recognition with a Back-Propagation Network, Le Cun et al, 1989</a>.</p>
+
+
+
 Informative paper on how <code>tesseract</code> works:
 
 <p><a href="https://pdfs.semanticscholar.org/eacd/1319c5a0d5642ff9b2b187579edb844dee3f.pdf"> An Overview of the Tesseract OCR Engine, Ray Smith, undated</a>.</p>
