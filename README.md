@@ -13,8 +13,9 @@ D&nbsp;E&nbsp;C&nbsp;E&nbsp;M&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;1&nbsp;4&nbs
 
 import pytesseract</code></pre> 
 
+<div class="container">
 <p><code>test_page1.png</code></p>
-        
+</div>        
   
 <img src="pics/test_page1.png" />
         
@@ -45,9 +46,9 @@ In the Vigenere cipher the key consists of a series of d1etters.These are writâ€
 ten repeatedly below the message and the two added modulo 26 (considering
 the alphabet numbered from A = 0 to Z = 25. Thus</code></pre> 
      
-        <p><code>fulltestpage.png</code></p>
+<p><code>fulltestpage.png</code></p>
         
-        <div class="container">
+<div class="container">
 <img src="pics/fulltestpage.png" />
 </div>         
         
