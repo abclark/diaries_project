@@ -1,2 +1,3 @@
 # Literature review
 <p><a href="https://pdfs.semanticscholar.org/eacd/1319c5a0d5642ff9b2b187579edb844dee3f.pdf"> An Overview of the Tesseract OCR Engine, Ray Smith, undated</a></p>
+<p><a href="http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network.pdf"> Handwritten Digit Recognition with a Back-Propagation Network, Le Cun et al, 1989</a>.</p>
