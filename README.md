@@ -17,7 +17,7 @@ import pytesseract</code></pre>
 <p><code>test_page1.png</code></p>
 </div>        
   
-<img src="pics/test_page1.png" />
+<img src="pics/test_page1.png" />        
         
 <pre><code>>>> print(pytesseract.image_to_string(Image.open('test_page1.png')))</code></pre>
 
@@ -47,7 +47,10 @@ ten repeatedly below the message and the two added modulo 26 (considering
 the alphabet numbered from A = 0 to Z = 25. Thus</code></pre> 
      
 <p><code>fulltestpage.png</code></p>
-        
+
+<p>See <a href="https://pdfs.semanticscholar.org/eacd/1319c5a0d5642ff9b2b187579edb844dee3f.pdf"> An Overview of the Tesseract OCR Engine, Ray Smith, undated</a></p>
+
+ 
 <div class="container">
 <img src="pics/fulltestpage.png" />
 </div>         
