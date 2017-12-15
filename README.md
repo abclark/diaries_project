@@ -73,8 +73,7 @@ Mad M gag? 4/14.: M
 O&nbsp;C&nbsp;T&nbsp;O&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;2&nbsp;3&nbsp;r&nbsp;d&nbsp;&nbsp;&nbsp;2&nbsp;0&nbsp;1&nbsp;7</BIG>
 </p>      
 
-<pre><code>
-from PIL import Image
+<pre><code>from PIL import Image
 import numpy as np
 from matplotlib import pyplot as plt
 
@@ -87,9 +86,7 @@ b = np.asarray(im)
 
 plt.subplot(121), plt.imshow(a, cmap='gray')
 plt.subplot(122), plt.imshow(b)
-plt.show()
-</code>
-</pre>      
+plt.show()</code></pre>      
   
        
 <div class="container">
